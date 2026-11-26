@@ -97,3 +97,17 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+
+## create service use 
+
+nest generate service user
+
+## db 
+
+npx prisma db push
+npx prisma generate
+npx prisma migrate dev --name update_timestamps
+
+## prisma studio 
+
+npx prisma studio
